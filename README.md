@@ -1,7 +1,7 @@
 # Quote Generator
 
 ## Live Demo
-https://your-username.github.io/quote-generator
+https://23a31a0509.github.io/quote-generator/
 
 ## Features
 - Random motivational quotes
